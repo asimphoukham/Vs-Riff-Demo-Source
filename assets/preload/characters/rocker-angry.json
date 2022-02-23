@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Riff Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Riff Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Riff Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Riff Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-253
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Riff Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Riff_Pissed_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rocker-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		60,
+		66
+	],
+	"camera_position": [
+		-170,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}
