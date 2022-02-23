@@ -1,0 +1,39 @@
+{
+	"storyName": "Vs Riff Rocker",
+	"hideFreeplay": false,
+	"weekBackground": "riff1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"rocker",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Air Rock",
+			"rocker",
+			[
+				175,
+				74,
+				90
+			]
+		],
+		[
+			"Realization",
+			"rocker-angry",
+			[
+				124,
+				52,
+				60
+			]
+		]
+	],
+	"weekName": "riff1"
+}
