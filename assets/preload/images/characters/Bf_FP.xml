@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf_FP.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fp bf idle new0000" x="0" y="0" width="365" height="510" frameX="0" frameY="-2" frameWidth="371" frameHeight="512"/>
+	<SubTexture name="fp bf idle new0001" x="365" y="0" width="369" height="507" frameX="0" frameY="-5" frameWidth="371" frameHeight="512"/>
+	<SubTexture name="fp bf idle new0002" x="734" y="0" width="370" height="507" frameX="0" frameY="-5" frameWidth="371" frameHeight="512"/>
+	<SubTexture name="fp bf idle new0003" x="1104" y="0" width="371" height="508" frameX="0" frameY="-4" frameWidth="371" frameHeight="512"/>
+	<SubTexture name="fp bf idle new0004" x="1475" y="0" width="370" height="507" frameX="0" frameY="-5" frameWidth="371" frameHeight="512"/>
+	<SubTexture name="fp bf idle new0005" x="0" y="510" width="361" height="512" frameX="0" frameY="0" frameWidth="371" frameHeight="512"/>
+</TextureAtlas>

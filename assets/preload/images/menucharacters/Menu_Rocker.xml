@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Rocker.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Riff Idle instance 10000" x="0" y="0" width="201" height="283"/>
+	<SubTexture name="Riff Idle instance 10001" x="0" y="0" width="201" height="283"/>
+	<SubTexture name="Riff Idle instance 10002" x="201" y="0" width="201" height="283"/>
+	<SubTexture name="Riff Idle instance 10003" x="201" y="0" width="201" height="283"/>
+	<SubTexture name="Riff Idle instance 10004" x="402" y="0" width="201" height="283"/>
+	<SubTexture name="Riff Idle instance 10005" x="402" y="0" width="201" height="283"/>
+</TextureAtlas>
